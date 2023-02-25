@@ -1,0 +1,4 @@
+ git clone https://github.com/plusjade/jekyll-bootstrap.git citizen-sovereign.github.com
+  cd citizen-sovereign.github.com
+  git remote set-url origin git@github.com:citizen-sovereign/citizen-sovereign.github.com.git
+  git push origin master
